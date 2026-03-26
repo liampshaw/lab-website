@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+<section class="hero">
+  <h1>{{ .Site.Params.labName }}</h1>
+  <p class="tagline">{{ .Site.Params.tagline }}</p>
+</section>
+
+<section class="home-intro">
+  {{ .Content }}
+</section>
+
+
+{{ end }}

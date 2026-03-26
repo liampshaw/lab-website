@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400&display=swap" rel="stylesheet">
+  {{ $css := resources.Get "css/main.css" }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <a href="/" class="site-title">{{ .Site.Title }}</a>
+    <nav class="site-nav">
+      {{ range .Site.Menus.main }}
+      <a href="{{ .URL }}" class="{{ if $.IsMenuCurrent "main" . }}active{{ end }}">{{ .Name }}</a>
+      {{ end }}
+    </nav>
+  </div>
+</header>
+
+<main class="site-main">
+  <div class="container">
+    {{ block "main" . }}{{ end }}
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p>
+      © {{ .Site.Title }} {{ now.Year }} ·
+      {{ .Site.Params.institution }} ·
+      <a href="mailto:{{ .Site.Params.email }}">Contact</a>
+      {{ with .Site.Params.github }} · <a href="{{ . }}" target="_blank">GitHub</a>{{ end }}
+    </p>
+  </div>
+</footer>
+
+</body>
+</html>

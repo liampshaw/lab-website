@@ -1,0 +1,45 @@
+baseURL = "https://shawlab.uk"
+languageCode = "en-gb"
+title = "Shaw Lab"
+
+[params]
+  labName = "Shaw Lab @ Bristol"
+  description = "Computational evolutionary biology at the University of Bristol"
+  institution = "University of Bristol"
+  github = "https://github.com/liampshaw"
+  email = "liam.shaw@bristol.ac.uk"
+  tagline = "Bacterial evolution · Bioinformatics · Evolutionary theory" 
+
+  
+ 
+[menu]
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 1
+  [[menu.main]]
+    name = "People"
+    url = "/people/"
+    weight = 2
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 3
+  [[menu.main]]
+    name = "Opportunities"
+    url = "/opportunities/"
+    weight = 4
+
+
+
+
+
+
+
+
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,35 @@
+{{ define "main" }}
+<div class="page">
+  <header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}<div class="page-intro">{{ . }}</div>{{ end }}
+  </header>
+
+  {{ range .Site.Data.publications }}
+  <section class="pub-year-group">
+    <h2 class="pub-year">{{ .year }}</h2>
+    <div class="pub-list">
+      {{ range .papers }}
+      <article class="pub-item">
+        <h3 class="pub-title">
+          {{ if .url }}<a href="{{ .url }}" target="_blank">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}
+        </h3>
+        <p class="pub-authors">{{ .authors }}</p>
+        <p class="pub-journal">
+          <em>{{ .journal }}</em>
+          {{ with .volume }}, {{ . }}{{ end }}
+          {{ with .year }}({{ . }}){{ end }}
+        </p>
+        <div class="pub-links">
+          {{ with .url }}<a href="{{ . }}" target="_blank">Paper</a>{{ end }}
+          {{ with .preprint }}<a href="{{ . }}" target="_blank">Preprint</a>{{ end }}
+          {{ with .code }}<a href="{{ . }}" target="_blank">Code</a>{{ end }}
+          {{ with .data }}<a href="{{ . }}" target="_blank">Data</a>{{ end }}
+        </div>
+      </article>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+</div>
+{{ end }}
