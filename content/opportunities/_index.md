@@ -18,7 +18,9 @@ applying formally. There are several schemes at Bristol but the earliest possibl
 
 If you're interested in coming to Bristol with an external fellowship, please get in touch so we can discuss possibilities - it would be great to hear from you.
 
-We are currently advertising for a computational postdoc to work on plasmid evolution (deadline: **16 April 2026**): [apply here](https://www.bristol.ac.uk/jobs/find-internal/list/details.html?jobId=387594&jobTitle=Senior%20Research%20Associate%20in%20Bacterial%20Evolution). More details:
+We are currently advertising for a computational postdoc to work on plasmid evolution (deadline: **23 April 2026**): [apply here](https://www.bristol.ac.uk/jobs/find/details/?jobId=387618&jobTitle=Senior%20Research%20Associate%20in%20Bacterial%20Evolution).
+
+More details:
 
 >**Background**: We are seeking an exceptional computational researcher to work on open problems in plasmid evolution. The field of defence systems has rapidly become one of the most exciting areas of biology, but most work has focused on their effects against phage – plasmids have been neglected. 
 
