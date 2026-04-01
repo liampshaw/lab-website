@@ -1,9 +1,9 @@
 baseURL = "https://shawlab.uk"
 languageCode = "en-gb"
-title = "Shaw Lab"
+title = "Shaw Lab @ Bristol"
 
 [params]
-  labName = "Shaw Lab @ Bristol"
+  labName = "Shaw Lab"
   description = "Computational evolutionary biology at the University of Bristol"
   institution = "University of Bristol"
   github = "https://github.com/liampshaw"
