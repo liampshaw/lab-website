@@ -16,9 +16,15 @@ Together with Craig MacLean and Adam Mulkern (Oxford), an essay in *PLOS Biology
 **24 June 2026**  
 Both Liam and Matt presented at the 4th UK Mobile Genetic Elements [conference](https://www.ukmgeworkshop.org/schedule) in York. Thanks to the organising committee for a great conference.
 
-### New preprint out
+
+### DNA modifications in Durham phages
 **12 June 2026**  
+A pleasure to play a minor role in this paper from Jenny Readshaw (Durham) on DNA modification in a collection of phages in Durham (collected by undergraduates!). This collaboration dates from Liam's time visiting Tim Blower's group. Congratulations to Jenny! Read the paper [here](https://doi.org/10.1128/aem.00810-26). 
+
+### New preprint out
+**11 June 2026**  
 New preprint published on patterns in plasmid copy number. You can read more [here](https://doi.org/10.64898/2026.06.10.731345). 
+
 
 ### Strain-level profiling in metagenomes
 **19 May 2026**  
