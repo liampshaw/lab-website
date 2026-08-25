@@ -12,6 +12,10 @@ A paper of Liam's has been published in *Nucleic Acids Research*. In it, we show
 **6 July 2026**    
 Together with Craig MacLean and Adam Mulkern (Oxford), an essay in *PLOS Biology* arguing that antibiotic resistance is often catalyzed by what we call 'resistance potentiators'. Introducing a new concept is always tricky, but we think that this one does useful work in uniting together an assortment of different mechanisms by which bacteria can accelerate evolution in a trait-specific manner. Read the paper [here](https://doi.org/10.1371/journal.pbio.3003852).  
 
+### MGE-UK-4
+**24 June 2026**  
+Both Liam and Matt presented at the 4th UK Mobile Genetic Elements [conference](https://www.ukmgeworkshop.org/schedule) in York. Thanks to the organising committee for a great conference.
+
 ### New preprint out
 **12 June 2026**  
 New preprint published on patterns in plasmid copy number. You can read more [here](https://doi.org/10.64898/2026.06.10.731345). 
