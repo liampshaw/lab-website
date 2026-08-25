@@ -22,15 +22,9 @@ title = "Shaw Lab @ Bristol"
     url = "/people/"
     weight = 2
   [[menu.main]]
-    name = "Publications"
-    url = "/publications/"
+    name = "News"
+    url = "/news/"
     weight = 3
-  [[menu.main]]
-    name = "Opportunities"
-    url = "/opportunities/"
-    weight = 4
-
-
 
 
 
