@@ -1,4 +1,4 @@
----
+--
 title: "News"
 ---
 
@@ -6,11 +6,11 @@ title: "News"
 ### New paper out on plasmid biology
 
 **17 August 2026**  
-A paper of Liam's has been published in *Nucleic Acids Research* in collaboration with an international group of authors who first met at a plasmid workshop in Trieste in 2023. In it, we show that the leading region of plasmids - the first part that enters a new cell - has a special form of adaptation to defence systems that has previously gone unnoticed. The earliest genes in the plasmid seem to have been selected to use the genetic code in a way that maximises the speed at which they make proteins to combat host defences. You can read the paper [here](https://doi.org/10.1093/nar/gkag810).
+A paper of Liam's has been published in *Nucleic Acids Research* in collaboration with an international group of authors who first met at a plasmid workshop in Trieste in 2023. In it, we show that the leading region of plasmids — the first part that enters a new cell — has a special form of adaptation to defence systems that has previously gone unnoticed. The earliest genes in the plasmid seem to have been selected to use the genetic code in a way that maximises the speed at which they make proteins to combat host defences. You can read the paper [here](https://doi.org/10.1093/nar/gkag810).
 
 ### AllTheBacteria preprint
 **7 July 2026**  
-An open science collaboration led by [John Lees](https://bacpop.org/group/) and [Zam Iqbal](https://researchportal.bath.ac.uk/en/persons/zamin-iqbal/) has published a new preprint showing what's possible with over 2.4 million high-quality bacterial and archael genomes from over 11,000 species. The paper has 45 authors who each helped with creating and analysing this mammoth dataset - we played a very small role by looking for defence systems in Enterobacterales, but there are lots of exciting results from analysis at this scale, including the discovery of novel peptides that are active against antibiotic-resistant bacteria. Read the preprint [here](https://doi.org/10.1101/2024.03.08.584059). 
+An open science collaboration led by [John Lees](https://bacpop.org/group/) and [Zam Iqbal](https://researchportal.bath.ac.uk/en/persons/zamin-iqbal/) has published a new preprint showing what's possible with over 2.4 million high-quality bacterial and archael genomes from over 11,000 species. The paper has 45 authors who each helped with creating and analysing this mammoth dataset — we played a very small role by looking for defence systems in Enterobacterales, but there are lots of exciting results from analysis at this scale, including the discovery of novel peptides that are active against antibiotic-resistant bacteria. Read the preprint [here](https://doi.org/10.1101/2024.03.08.584059). The defence system results are available to analyse [here](https://allthebacteria.org/docs/defense/) (as are other outputs from the collaboration).  
 
 ### Resistance potentiators
 **6 July 2026**    
