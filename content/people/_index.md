@@ -5,7 +5,7 @@ title: "People"
 {{< figure src="/images/CliftonSuspensionBridge-9350.jpg" >}}
 <small>Photo credit: [Clifton Suspension Bridge](https://commons.wikimedia.org/wiki/File:Clifton_Suspension_Bridge-9350.jpg) from Wikimedia Commons</small>
 
-The group has been based in the [School of Cellular and Molecular Medicine](https://www.bristol.ac.uk/cellmolmed/) at the University of Bristol since February 2026. 
+The group has been based in the [School of Biochemistry and Biomedical Sciences](https://www.bristol.ac.uk/biochemistry-biomedical/) at the University of Bristol since February 2026. 
 Bristol is a great place to live and work, and if you're interested in joining us we'd love to hear from you.  
 
 ### PhD students

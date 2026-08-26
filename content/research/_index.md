@@ -28,9 +28,10 @@ we are driven by fundamental questions rather than technical challenges.
 
 ## Research areas
 
-See [Google scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ) for an up-to-date list of Liam's publications.  
 Our work spans several overlapping areas, with the below giving some indication of the types of questions we work on in collaboration with colleagues.
 If you're interested in collaborating in the future, please get in touch!
+
+This section provides an overview of some of the topics I've worked on in the past. See [news](/news) for recent work and [Google scholar](https://scholar.google.com/citations?user=oaQPy0EAAAAJ) for an up-to-date list of publications. 
 
 ### Antibiotic resistance
 
