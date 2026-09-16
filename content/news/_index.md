@@ -2,6 +2,11 @@
 title: "News"
 ---
 
+### New paper out on extrachromosomal DNA  
+
+**14 September 2026**  
+Plasmids show a lot of similarities to a strange phenomenon that occurs in human cancers called extrachromosomal DNA, where fragments of the human genome break off and circularize. Together with the oncologist Anton Henssen, Liam has a new review out in *Nature Reviews Genetics* that compares and contrasts the two, arguing they represent an example of convergent evolution. Read the paper [here](https://doi.org/10.1038/s41576-026-01012-7).   
+
 
 ### New paper out on plasmid biology
 
