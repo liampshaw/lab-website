@@ -4,7 +4,7 @@ title: "Computational Microbiology Lab"
 
 
 
-We are a research group at the [University of Bristol](https://www.bristol.ac.uk),
+We are a research group at the University of Bristol,
 led by Liam Shaw. We study the evolutionary biology of bacteria using
 computational approaches. 
 
