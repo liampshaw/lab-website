@@ -2,6 +2,14 @@
 title: "News"
 ---
 
+### Welcome Eliza!
+
+**16 November 2026**  
+Eliza Rayner has joined us as a postdoc to work on the relationship between defence systems and plasmids.
+
+{{< figure src="/images/Lab-selfie-Nov-2026.jpg" width="600" >}}
+
+
 ### New paper out on extrachromosomal DNA  
 
 **14 September 2026**  
